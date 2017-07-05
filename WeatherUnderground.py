@@ -2,7 +2,7 @@
 
 # 30 Jun 17
 # code  Weather-pi-station   collected from http://makezine.com/projects/raspberry-pi-weather-station-mount/
-# and  bme280.py from
+# and  bme280.py from http://www.raspberrypi-spy.co.uk/2016/07/using-bme280-i2c-temperature-pressure-sensor-in-python/
 # add Pi collected temperature data to weatherunderground.com
 
 
