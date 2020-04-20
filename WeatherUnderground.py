@@ -289,7 +289,7 @@ if (MEASUREMENT_INTERVAL is None) or (MEASUREMENT_INTERVAL > 60):
 # ============================================================================
 print("\nInitializing Weather Underground configuration")
 wu_station_id = IPARKLAN14
-wu_station_key = p1rgpw5r
+wu_station_key = xxxxxxxxx
 if (wu_station_id is None) or (wu_station_key is None):
     print("Missing values from the Weather Underground configuration file\n")
     sys.exit(1)
